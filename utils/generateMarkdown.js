@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
 
 const generatelicense = (type) => {
   let color;
@@ -58,7 +58,7 @@ ${generatelicense(license)}
     `
   );
 
-  fs.writeFileSync('./output/README.md', template);
+  fs.writeFileSync('./utils/README.md', template);
   console.log('TEMPLATE GENERATED!');
   process.exit();
 };
