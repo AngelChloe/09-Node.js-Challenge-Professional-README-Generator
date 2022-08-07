@@ -1,5 +1,5 @@
 
-# # 09-Node.js-Challenge-Professional-README-Generator
+# # Professional-README-Generator
 
 ## Table of Contents
   1. [Description](#description)
