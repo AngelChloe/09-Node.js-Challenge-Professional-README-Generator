@@ -69,7 +69,7 @@ https://github.com/Cinderbeast/09-Node.js-Challenge-Professional-README-Generato
 cindychynoweth@gmail.com
 
 ## Authors and Acknowledgements
-Starter code created by University of Utah Cooding Bootcamp coders, edited by student Cindy Chynoweth
+Starter code created by University of Utah Coding Bootcamp coders, edited by student Cindy Chynoweth
 
 ## License
 <img src="https://img.shields.io/badge/license-ISC-goldenrod" alt="badge-ISC" height="44" />
