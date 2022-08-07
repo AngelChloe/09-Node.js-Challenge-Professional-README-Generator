@@ -33,15 +33,14 @@ This assignement required students to create a command-line application that dyn
 
 ## Visuals
 
-![Professional README Generator Video](./assets/Professional-Readme-Generator.gif)
-
+![LProfessional README Generator Video](https://drive.google.com/file/d/1vAsMUBAl2I8Jws8t2CEA__0d0F6PsrKh/view)
 ## Resources
 
 - [LIVE SITE])
 
 - [Repository](https://github.com/Cinderbeast/09-Node.js-Challenge-Professional-README-Generator)
 
-- [My Video Link]()
+- [My Video Link](https://drive.google.com/file/d/1vAsMUBAl2I8Jws8t2CEA__0d0F6PsrKh/view)
 
 - [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
