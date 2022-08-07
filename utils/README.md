@@ -54,7 +54,7 @@ This assignement required students to create a command-line application that dyn
 - One Successful! A README.md 'TEMPLATE GENERATED'
 
 ## Contribution
-REPO
+GitHub REPO
 
 ## Test 
 VS Code
