@@ -2,14 +2,17 @@
 # # 09-Node.js-Challenge-Professional-README-Generator
 
 ## Table of Contents
-  1. [installation](#installation)
-  2. [usage](#usage)
-  3. [contribution](#contribution)
-  4. [test](#test)
-  5. [github](#github)
-  6. [email](#email)
-  7. [license](#license)
-  8. 
+  1. [Description](#description)
+  2. [Visuals](#visuals)
+  3. [Resources](#resources)
+  4. [Installation](#installation)
+  5. [usage](#usage)
+  6. [contribution](#contribution)
+  7. [test](#test)
+  8. [github](#github)
+  9. [email](#email)
+  10. [license](#license)
+  
 ## Description
 This assignement required students to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. The application will be invoked by using the following command: node index.js.
 
