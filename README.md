@@ -33,7 +33,7 @@ This assignement required students to create a command-line application that dyn
 
 ## Visuals
 
-![LProfessional README Generator Video](https://drive.google.com/file/d/1vAsMUBAl2I8Jws8t2CEA__0d0F6PsrKh/view)
+![Professional README Generator Video](https://drive.google.com/file/d/1vAsMUBAl2I8Jws8t2CEA__0d0F6PsrKh/view)
 ## Resources
 
 - [LIVE SITE])
