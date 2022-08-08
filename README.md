@@ -66,7 +66,7 @@ GitHub REPO
 VS Code
 
 ## GitHub: Cinderbeast
-https://github.com/Cinderbeast/09-Node.js-Challenge-Professional-README-Generator/
+https://github.com/Cinderbeast/
 
 ## Authors and Acknowledgements
 Starter code created by University of Utah Coding Bootcamp coders, edited by student Cindy Chynoweth
