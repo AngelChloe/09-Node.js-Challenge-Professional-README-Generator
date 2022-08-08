@@ -1,6 +1,9 @@
 
 # Professional-README-Generator
 
+## License
+<img src="https://img.shields.io/badge/license-ISC-goldenrod" alt="badge-ISC" height="44" />
+
 ## Table of Contents
   1. [Description](#description)
   2. [Visuals](#visuals)
@@ -34,6 +37,7 @@ This assignement required students to create a command-line application that dyn
 ## Visuals
 
 ![Professional README Generator Video](https://drive.google.com/file/d/1vAsMUBAl2I8Jws8t2CEA__0d0F6PsrKh/view)
+
 ## Resources
 
 - [LIVE SITE])
@@ -41,9 +45,6 @@ This assignement required students to create a command-line application that dyn
 - [Repository](https://github.com/Cinderbeast/09-Node.js-Challenge-Professional-README-Generator)
 
 - [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-
-Image of files created for the Professional README.md Generator
-![image](https://user-images.githubusercontent.com/105569378/183319316-f66f5cb3-d3da-4692-bdaf-3c4845f0d428.png)
 
 ## Installation
 - Download through GitHub
@@ -54,6 +55,9 @@ Image of files created for the Professional README.md Generator
 - Type 'node index.js'
 - Answer the prompts questions
 - One Successful! A README.md 'TEMPLATE GENERATED'
+
+Image of files created for the Professional README.md Generator
+![image](https://user-images.githubusercontent.com/105569378/183319316-f66f5cb3-d3da-4692-bdaf-3c4845f0d428.png)
 
 ## Contribution
 GitHub REPO
@@ -67,7 +71,6 @@ https://github.com/Cinderbeast/09-Node.js-Challenge-Professional-README-Generato
 ## Authors and Acknowledgements
 Starter code created by University of Utah Coding Bootcamp coders, edited by student Cindy Chynoweth
 
-## License
-<img src="https://img.shields.io/badge/license-ISC-goldenrod" alt="badge-ISC" height="44" />
+
   
     
