@@ -36,6 +36,9 @@ This assignement required students to create a command-line application that dyn
 
 ## Visuals
 
+Image of files created for the Professional README.md Generator
+![image](https://user-images.githubusercontent.com/105569378/183319316-f66f5cb3-d3da-4692-bdaf-3c4845f0d428.png)
+
 ![Professional README Generator Video](https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view)
 
 ## Resources
@@ -55,9 +58,6 @@ This assignement required students to create a command-line application that dyn
 - Type 'node index.js'
 - Answer the prompts questions
 - One Successful! A README.md 'TEMPLATE GENERATED'
-
-Image of files created for the Professional README.md Generator
-![image](https://user-images.githubusercontent.com/105569378/183319316-f66f5cb3-d3da-4692-bdaf-3c4845f0d428.png)
 
 ## Contribution
 GitHub REPO
