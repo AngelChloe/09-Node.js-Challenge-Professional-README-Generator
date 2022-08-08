@@ -40,7 +40,7 @@ This assignement required students to create a command-line application that dyn
 
 ## Resources
 
-- [LIVE SITE])
+- [LIVE SITE](https://cinderbeast.github.io/09-Node.js-Challenge-Professional-README-Generator/)
 
 - [Repository](https://github.com/Cinderbeast/09-Node.js-Challenge-Professional-README-Generator)
 
