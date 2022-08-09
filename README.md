@@ -60,8 +60,8 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 - One Successful! A README.md 'TEMPLATE GENERATED'
 
 ## Contribution
-GitHub REPO
-VS Code
+- GitHub REPO
+- VS Code
 
 ## Test 
 VS Code
