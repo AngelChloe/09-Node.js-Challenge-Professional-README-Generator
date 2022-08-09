@@ -39,7 +39,7 @@ This assignement required students to create a command-line application that dyn
 Image of files created for the Professional README.md Generator
 ![image](https://user-images.githubusercontent.com/105569378/183319316-f66f5cb3-d3da-4692-bdaf-3c4845f0d428.png)
 
-![Professional README Generator Video][chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/a05218a7-794d-438e-y9df-45ae734ace08]
+![Professional README Generator Video](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/a05218a7-794d-438e-y9df-45ae734ace08)
 
 ## Resources
 
