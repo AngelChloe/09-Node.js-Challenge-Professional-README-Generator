@@ -70,6 +70,9 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 ## GitHub: Cinderbeast
 https://github.com/Cinderbeast/
 
+##Email
+cindychynoweth@gmail.com
+
 ## Authors and Acknowledgements
 Starter code created by University of Utah Coding Bootcamp coders, edited by student Cindy Chynoweth
 
