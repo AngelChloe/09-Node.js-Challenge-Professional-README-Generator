@@ -58,13 +58,15 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 - Type 'node index.js'
 - Answer the prompts questions
 - One Successful! A README.md 'TEMPLATE GENERATED'
-- 
+
 ## Usage
 - To create One Successful! A README.md 'TEMPLATE GENERATED'
 
 ## Contribution
 - GitHub REPO
 - VS Code
+- node.js
+- npm inquirer
 - Myself
 
 ## GitHub: Cinderbeast
