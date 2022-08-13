@@ -7,10 +7,10 @@
   1. [Description](#description)
   2. [Visuals](#visuals)
   3. [Resources](#resources)
-  4. [Installation](#installation)
-  5. [usage](#usage)
-  6. [contribution](#contribution)
-  7. [test](#test)
+  4. [Installation](#inst[test](#test)allation)
+  5. [test](#test)
+  6. [usage](#usage)
+  7. [contribution](#contribution)
   8. [github](#github)
   9. [license](#license)
   
@@ -53,6 +53,12 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 - Download through GitHub
 - Make sure inquirer is installed
 
+## Test 
+- Open terminal in VS Code
+- Type 'node index.js'
+- Answer the prompts questions
+- One Successful! A README.md 'TEMPLATE GENERATED'
+- 
 ## Usage
 - To create One Successful! A README.md 'TEMPLATE GENERATED'
 
@@ -60,12 +66,6 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 - GitHub REPO
 - VS Code
 - Myself
-
-## Test 
-- Open terminal in VS Code
-- Type 'node index.js'
-- Answer the prompts questions
-- One Successful! A README.md 'TEMPLATE GENERATED'
 
 ## GitHub: Cinderbeast
 https://github.com/Cinderbeast/
