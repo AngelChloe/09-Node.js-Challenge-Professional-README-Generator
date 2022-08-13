@@ -12,7 +12,8 @@
   6. [usage](#usage)
   7. [contribution](#contribution)
   8. [github](#github)
-  9. [license](#license)
+  9. [Email] (#email)
+  10. [license](#license)
   
 ## Description
 This assignement required students to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. The application will be invoked by using the following command: node index.js.
@@ -70,7 +71,7 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 ## GitHub: Cinderbeast
 https://github.com/Cinderbeast/
 
-##Email
+**Email**
 cindychynoweth@gmail.com
 
 ## Authors and Acknowledgements
