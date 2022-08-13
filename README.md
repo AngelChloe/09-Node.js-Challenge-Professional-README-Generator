@@ -12,8 +12,7 @@
   6. [usage](#usage)
   7. [contribution](#contribution)
   8. [github](#github)
-  9. [email] (#email)
-  10. [license](#license)
+  9. [license](#license)
   
 ## Description
 This assignement required students to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. The application will be invoked by using the following command: node index.js.
