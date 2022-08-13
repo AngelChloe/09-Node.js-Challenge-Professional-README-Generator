@@ -12,7 +12,7 @@
   6. [usage](#usage)
   7. [contribution](#contribution)
   8. [github](#github)
-  9. [Email] (#email)
+  9. [email] (#email)
   10. [license](#license)
   
 ## Description
