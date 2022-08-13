@@ -54,17 +54,18 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 - Make sure inquirer is installed
 
 ## Usage
-- Open terminal
-- Type 'node index.js'
-- Answer the prompts questions
-- One Successful! A README.md 'TEMPLATE GENERATED'
+- To create One Successful! A README.md 'TEMPLATE GENERATED'
 
 ## Contribution
 - GitHub REPO
 - VS Code
+- Myself
 
 ## Test 
-VS Code
+- Open terminal in VS Code
+- Type 'node index.js'
+- Answer the prompts questions
+- One Successful! A README.md 'TEMPLATE GENERATED'
 
 ## GitHub: Cinderbeast
 https://github.com/Cinderbeast/
