@@ -69,7 +69,7 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 - npm inquirer
 - Myself
 
-## GitHub Cinderbeast
+## GitHubCinderbeast
 https://github.com/Cinderbeast/
 
 **Email**
