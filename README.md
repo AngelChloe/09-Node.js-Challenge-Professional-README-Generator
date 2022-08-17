@@ -7,11 +7,11 @@
   1. [Description](#description)
   2. [Visuals](#visuals)
   3. [Resources](#resources)
-  4. [Installation](#inst[test](#test)allation)
+  4. [Installation](#installation)
   5. [test](#test)
   6. [usage](#usage)
   7. [contribution](#contribution)
-  8. [github](#github)
+  8. [github](#GitHub: Cinderbeast)
   9. [license](#license)
   
 ## Description
