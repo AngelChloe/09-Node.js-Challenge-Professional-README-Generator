@@ -11,7 +11,7 @@
   5. [test](#test)
   6. [usage](#usage)
   7. [contribution](#contribution)
-  8. [GitHub: Cinderbeast](#GitHub: Cinderbeast)
+  8. [GitHub Cinderbeast](#GitHub Cinderbeast)
   9. [license](#license)
   
 ## Description
@@ -69,7 +69,7 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 - npm inquirer
 - Myself
 
-## GitHub: Cinderbeast
+## GitHub Cinderbeast
 https://github.com/Cinderbeast/
 
 **Email**
