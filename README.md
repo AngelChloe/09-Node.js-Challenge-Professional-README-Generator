@@ -43,8 +43,6 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 
 ## Resources
 
-- [LIVE SITE](https://cinderbeast.github.io/09-Node.js-Challenge-Professional-README-Generator)
-
 - [Repository](https://github.com/Cinderbeast/09-Node.js-Challenge-Professional-README-Generator)
 
 - [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
