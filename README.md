@@ -51,7 +51,8 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 
 ## Installation
 - Download through GitHub
-- Make sure inquirer is installed
+- Install Inquirer
+- Install NodeJS
 
 ## Test 
 - Open terminal in VS Code
