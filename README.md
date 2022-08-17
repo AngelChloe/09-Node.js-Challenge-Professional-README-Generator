@@ -11,7 +11,7 @@
   5. [test](#test)
   6. [usage](#usage)
   7. [contribution](#contribution)
-  8. [github](#GitHub: Cinderbeast)
+  8. [GitHub: Cinderbeast](#GitHub: Cinderbeast)
   9. [license](#license)
   
 ## Description
