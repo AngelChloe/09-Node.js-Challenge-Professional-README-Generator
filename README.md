@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1v4nzMOJ32gerdNzIzHe_krr1KGR4-kd7/view
 
 - [Repository](https://github.com/AngelChloe/Horiseon)
 
-- [How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+- [How to create a Professional README](https://angelchloe.github.io/09-Node.js-Challenge-Professional-README-Generator/)
 
 ## Installation
 - Download through GitHub
